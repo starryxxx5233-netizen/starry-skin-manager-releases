@@ -1,5 +1,7 @@
 首个完整依赖分发的 Windows x64 公开测试版。
 
+**想让 Codex 帮你安装？** 将 [本仓库链接](https://github.com/starryxxx5233-netizen/starry-skin-manager-releases) 发给能操作目标电脑的 Codex，并说：“按照 README 的 Codex 安装说明，帮我安装并验证运行。” [查看可直接复制的完整指令](https://github.com/starryxxx5233-netizen/starry-skin-manager-releases#install-with-codex)。
+
 ## 下载与使用
 
 - **Setup.exe**：安装程序。

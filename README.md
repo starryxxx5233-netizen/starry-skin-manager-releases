@@ -2,6 +2,27 @@
 
 适用于 Windows Codex 桌面端的皮肤管理工具。这个公开仓库提供安装包、使用说明与问题反馈。
 
+<a id="install-with-codex"></a>
+
+## 让 Codex 帮你安装
+
+可以把**这个仓库的链接和一句安装要求**发给能操作目标 Windows 电脑的 Codex。无需自己下载源码或配置 Node.js。
+
+直接复制下面整段：
+
+```text
+请按照这个仓库 README 中“让 Codex 帮你安装”的说明，在这台 Windows 电脑上安装并启动 Starry 皮肤管理器：
+https://github.com/starryxxx5233-netizen/starry-skin-manager-releases
+
+请先读取 docs/INSTALL_WITH_CODEX.md，下载说明中指定版本的完整文件夹版，校验 SHA-256，解压到固定目录并创建桌面快捷方式。已有版本和配置先备份，保留自定义主题。实际验证启动、主题加载和窗口大小记忆，告诉我安装位置及验证结果。需要重启 Codex 时先让我确认。
+```
+
+也可以只发送仓库链接，再说：**“按照 README 的 Codex 安装说明，帮我安装并验证运行。”**
+
+前提是 Codex 能在这台电脑上执行本地操作，并能访问 GitHub、写入安装目录；单纯打开网页或在未连接本机的云端聊天中粘贴地址，不能完成本机安装。出现实际权限提示时按提示处理，无需预先关闭所有权限限制。相关能力由 [Codex 的运行环境与权限](https://learn.chatgpt.com/docs/sandboxing) 决定。
+
+当前安装目标是 **0.4.0-beta.1 公开测试版，仅提供 Windows x64 分发包**。[详细安装步骤与验收要求](docs/INSTALL_WITH_CODEX.md)供 Codex 执行时参考；如果不能执行某一步，应说明原因和需要用户完成的操作。
+
 ## 下载
 
 **[下载 0.4.0-beta.1 公开测试版](https://github.com/starryxxx5233-netizen/starry-skin-manager-releases/releases/tag/v0.4.0-beta.1)**
