@@ -1,0 +1,5 @@
+*.exe
+*.zip
+*.blockmap
+release-result.json
+SHA256SUMS.txt
